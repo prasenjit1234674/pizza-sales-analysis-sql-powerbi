@@ -76,7 +76,7 @@ I love transforming raw data into impactful dashboards and meaningful insights.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/prasenjit-barman-968283359/)  
 📫 Email: prasenjitbarman.5687@gmail.com  
-💼 Portfolio: *(add your GitHub/portfolio link here)*
+💼 Portfolio: *([add your GitHub/portfolio link here](https://github.com/prasenjit1234674/pizza-sales-analysis-sql-powerbi.git)*
 
 ---
 
