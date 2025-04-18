@@ -1,4 +1,4 @@
---A. KPI’s
+--A. KPIâ€™s
 
 --1. Total Revenue:
 SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
